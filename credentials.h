@@ -1,2 +1,2 @@
-#define WIFI_SSID "DC_Atelier"
-#define WIFI_PASS "delta_2019"
+#define WIFI_SSID "xx"
+#define WIFI_PASS "xx"
