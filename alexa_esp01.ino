@@ -1,7 +1,7 @@
 
 // See image for the config ARDUINO IDE
 // Select 1.4 High bandwith
-
+// Version 1.1
 
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
